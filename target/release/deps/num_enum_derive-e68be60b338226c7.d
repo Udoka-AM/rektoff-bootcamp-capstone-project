@@ -1,0 +1,9 @@
+/Users/udoka/Downloads/rektoff bootcamp #1 capstone project/target/release/deps/libnum_enum_derive-e68be60b338226c7.dylib: /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/lib.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/enum_attributes.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/parsing.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/utils.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/variant_attributes.rs
+
+/Users/udoka/Downloads/rektoff bootcamp #1 capstone project/target/release/deps/num_enum_derive-e68be60b338226c7.d: /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/lib.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/enum_attributes.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/parsing.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/utils.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/variant_attributes.rs
+
+/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/lib.rs:
+/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/enum_attributes.rs:
+/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/parsing.rs:
+/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/utils.rs:
+/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.4/src/variant_attributes.rs:
