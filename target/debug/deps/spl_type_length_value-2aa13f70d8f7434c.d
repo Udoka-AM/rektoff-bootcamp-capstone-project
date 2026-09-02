@@ -1,9 +1,0 @@
-/Users/udoka/Downloads/rektoff bootcamp #1 capstone project/target/debug/deps/libspl_type_length_value-2aa13f70d8f7434c.rmeta: /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/lib.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/error.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/length.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/state.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/variable_len_pack.rs
-
-/Users/udoka/Downloads/rektoff bootcamp #1 capstone project/target/debug/deps/spl_type_length_value-2aa13f70d8f7434c.d: /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/lib.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/error.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/length.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/state.rs /Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/variable_len_pack.rs
-
-/Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/lib.rs:
-/Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/error.rs:
-/Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/length.rs:
-/Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/state.rs:
-/Users/udoka/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-type-length-value-0.7.0/src/variable_len_pack.rs:

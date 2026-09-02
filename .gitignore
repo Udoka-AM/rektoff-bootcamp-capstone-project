@@ -1,1 +1,12 @@
 node_modules
+dist
+.DS_Store
+
+# Anchor build output and the local test ledger. Committing these is what put
+# 5,916 files and five keypairs into this repository.
+target
+.anchor
+
+# Never commit keypairs. The deploy keypair is the program's identity, and
+# test-ledger keys are still credentials.
+**/*-keypair.json

@@ -1,9 +1,0 @@
-/Users/udoka/Downloads/rektoff bootcamp #1 capstone project/target/sbf-solana-solana/release/deps/libspl_associated_token_account_client-8fddb0d78f5c0a72.rmeta: /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/lib.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/address.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/instruction.rs
-
-/Users/udoka/Downloads/rektoff bootcamp #1 capstone project/target/sbf-solana-solana/release/deps/libspl_associated_token_account_client-8fddb0d78f5c0a72.rlib: /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/lib.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/address.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/instruction.rs
-
-/Users/udoka/Downloads/rektoff bootcamp #1 capstone project/target/sbf-solana-solana/release/deps/spl_associated_token_account_client-8fddb0d78f5c0a72.d: /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/lib.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/address.rs /Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/instruction.rs
-
-/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/lib.rs:
-/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/address.rs:
-/Users/udoka/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-associated-token-account-client-2.0.0/src/instruction.rs:
